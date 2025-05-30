@@ -1,7 +1,3 @@
-# [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)  
-
-
-
 # [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
